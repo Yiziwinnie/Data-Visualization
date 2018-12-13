@@ -17,7 +17,6 @@ I selected date as Exact date in Tableau. The title is bold displaying in center
 The title is bold displaying in center of figure. The color of bar is green instead of using default color. I tried to rest the scale the tick. However, there are some records locating in range of 360M to 380M. The width of bar is also changed which is a little bit narrower than the default width. The figure showing as above is the best after many times of adjustments. 
 Because there is one outlier here, I just indented keep it to show all information. 
 
-
 ![picture4](https://user-images.githubusercontent.com/31257555/49926427-7f8a9a80-fef6-11e8-896b-0854aace8782.png)
 > **Figure 4.**
 The title is bold displaying in center of figure. The y axis is added dollar sign. A new column named Range is added into dataset by setting Calculated Field with ([High]-[low]). The color of point varies in four colors as you see in the legend. Some extra hidden information can get from this setting. For example, the range is gradually larger with the trading day. I also reset the size of point instead of using default value. Because there is one outlier here, I just indented keep it to show all information. 
@@ -27,14 +26,12 @@ The title is bold displaying in center of figure. The y axis is added dollar sig
 ![picture5](https://user-images.githubusercontent.com/31257555/49926428-80233100-fef6-11e8-94dd-23b2154fcda1.png)
 > **Figure 5.**
 The title is bold displaying in center of figure. The label of x axis is reset with only Error. In order to explain what the error is, I added a brace with explanation. The color of bar is pink instead of using default color. A new column named Error is added into dataset by setting Calculated Field with ([Response]-[TrueValue]).
-
 <br/>
 <br/>
 
 ![picture6](https://user-images.githubusercontent.com/31257555/49926431-80233100-fef6-11e8-9778-33db11dd67d0.png)
 > **Figure 6.**
 The title is bold displaying in center of figure. The label of x axis is indented hidden. The tick marker is reset with shorten words. I selected reservation as color to display my figure. That’s why you can see different colors of bars. What’s more, the median is used instead of using sum and the x- value is sorted. 
-
 <br/>
 <br/>
 
@@ -44,12 +41,10 @@ The title is bold displaying in center of figure. The label of x axis is indente
 <br/>
 <br/>
 
-
 ![picture8](https://user-images.githubusercontent.com/31257555/49926434-81545e00-fef6-11e8-87b3-e0f8cf9535c5.png)
 > **Figure 8.** A new column named AbsoluteError is added into dataset by setting Calculated Field with (abs[Error]). The title is bold displaying in center of figure. The label of x axis is indented hidden. The tick marker is reset with shorten words. I selected reservation as color to display my figure, that’s why you can see different colors of bars. What’s more, the median is used instead of using sum and the x- value is sorted. <br/>
 **Analysis:**<br/>
 From Figure 6, The distribution of Error caculated by Response subtract TrueValue display normal distribution. Almost people will make a little bit error and fewer of them have huge visual error. From Figure 7, responses are inclined to largely underestimate the value compared with that of original color, while they largely overestimate the value compared with that of original one when perceiving volume and slope. From Figure 8, It is easier for response to compare the vertical aligned distance while much harder to compare the vertical unaligned distance. The hardest task is perceiving the slope for response. From Figure 8, response will larger mistake when perceiving color and slope compared with other shapes. 
-
 <br/>
 <br/>
 
@@ -65,13 +60,11 @@ I clicked Show Me on the toolbar, then selected the treemap chart type. The titl
 <br/>
 <br/>
 
-
 ![picture11](https://user-images.githubusercontent.com/31257555/49926452-874a3f00-fef6-11e8-8a78-66e4832bc74f.png)
 > **Figure 11.**
 I clicked Show Me on the toolbar, then selected the packed bubble chart type. The title is bold displaying in center of figure. In order to show all information including Make, Mode, and price in my figure, I selected three of them as my label and adjust their size. The Make is also selected as color that we can see the same Make is in same color. What’s more, the mean is used instead of using sum. 
 <br/>
 <br/>
-
 
 ![picture12](https://user-images.githubusercontent.com/31257555/49926453-87e2d580-fef6-11e8-8eab-62aeee9edcde.png)
 > **Figure 12.**
