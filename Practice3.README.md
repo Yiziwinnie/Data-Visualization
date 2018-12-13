@@ -1,5 +1,6 @@
 # Data-Visualization
-> **R &amp; Tableau**<br/>
+**R &amp; Tableau**<br/>
+<br/>
 ![picture1](https://user-images.githubusercontent.com/31257555/49932678-9cc66580-ff04-11e8-844d-bd54e8bb3c40.png)
 
 > **Method: R**<br/>
