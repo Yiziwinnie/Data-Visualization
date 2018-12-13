@@ -17,7 +17,7 @@ In this problem, I did data manipulate first and then plotted them using geom_ti
 <br/>
 <br/>
 
-<img width="755" alt="screen shot 2018-12-13 at 6 24 34 pm" src="https://user-images.githubusercontent.com/31257555/49932689-a18b1980-ff04-11e8-9d12-9ca232ab7182.png">
+<img width="738" alt="screen shot 2018-12-13 at 6 38 28 pm" src="https://user-images.githubusercontent.com/31257555/49933364-64278b80-ff06-11e8-9697-93270837f170.png">
 
 <img width="674" alt="screen shot 2018-12-13 at 6 25 05 pm" src="https://user-images.githubusercontent.com/31257555/49932690-a223b000-ff04-11e8-84a3-18cfd73ffa6d.png">
 
